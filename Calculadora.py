@@ -29,3 +29,4 @@ if st.button("Calcular"): # Cria um botão "calcular" que permite o código só 
 
 
   st.success(f"A resposta da operação é: {res}") # Exibe o resultado da operação.
+
