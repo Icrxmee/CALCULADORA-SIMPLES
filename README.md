@@ -6,5 +6,5 @@
 
 - Recomendo baixar antecipadamente através do terminal da IDE de preferência com o comando "pip install streamlit"
 - Para rodar o arquivo (hipoteticamente com o nome de calculadora) você utiliza "streamlit run calculadora.py"
-- Após isso, vai ser aberto num navegador de preferência a interface visual do código.
+- Após isso, vai ser aberto no navegador de preferência, a interface visual do código.
 
